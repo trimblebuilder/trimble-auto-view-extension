@@ -1,0 +1,8 @@
+{
+  "id": "auto-view-loader",
+  "name": "Auto View Loader",
+  "description": "Laadt automatisch vooraf ingestelde views in Trimble Connect",
+  "version": "1.0.0",
+  "entryPoint": "index.html",
+  "icon": "icon.png"
+}
