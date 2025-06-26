@@ -3,6 +3,6 @@
   "name": "Auto View Loader",
   "description": "Laadt automatisch vooraf ingestelde views in Trimble Connect",
   "version": "1.0.0",
-  "entryPoint": "https://trimblebuilder.github.io/auto-view-extension/index.html",
-  "icon": "https://trimblebuilder.github.io/auto-view-extension/icon.png"
+  "entryPoint": "https://trimblebuilder.github.io/trimble-auto-view-extension/index.html",
+  "icon": "https://trimblebuilder.github.io/trimble-auto-view-extension/icon.png"
 }
